@@ -1,0 +1,12 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.nav-menu {
+    justify-content: end;
+}
+
+@media (max-width: 768px) {
+    .nav-menu {
+        justify-content: center;
+    }
+}
